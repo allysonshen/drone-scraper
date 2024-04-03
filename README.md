@@ -14,6 +14,3 @@ The purpose of CARTER is to gather information from various online sources regar
 
 ## Contributors
 - Allyson Shen (asshen@usc.edu)
-
-## License
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
